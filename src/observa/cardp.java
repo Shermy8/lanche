@@ -263,7 +263,7 @@ int n = JOptionPane.showOptionDialog(null,
                 options[0]);
         
     if(n==JOptionPane.YES_OPTION) {
-        JOptionPane.showMessageDialog(null, "Redirecionando para pagamento...");
+        JOptionPane.showMessageDialog(null, "Redirecionando para pagameeeeento...");
             this.dispose();
         Object[] poo = lst.toArray();
         String opaaaa = lst.toString();
