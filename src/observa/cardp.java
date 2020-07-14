@@ -279,7 +279,7 @@ int n = JOptionPane.showOptionDialog(null,
     }
     String opaaaa = lst.toString();
 //    telafim1 fim = new telafim1();
-//    fim.exportarList(opaaaa); 
+//    fim.exportarList(OPAAAAAAA MAMAI); 
        
        
         }
